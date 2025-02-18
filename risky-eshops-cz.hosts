@@ -1,21 +1,3 @@
-# Title: Risky e-shops / Rizokové e-shopy (*.cz)
-# Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-02-18 17:43:27 
-# Version: 2025.02.18.17
-# Website: https://github.com/erikni/pihole-block-risky-eshops-cz
-# Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
-# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-# Maintainer: erikni
-#
-#
-# (EN)  WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-# (CZ) VAROVANI: Stránky uvedené v seznamech mohou být škodlivé. Prosím, nenavštěvujte je, když nevíte, co děláte!
-#
-#
-# Blacklist for download for the Pi-Hole project (https://pi-hole.net/) at url:
-# https://raw.githubusercontent.com/erikni/pihole-block-risky-eshops-cz/refs/heads/main/risky-eshops-cz.txt
-#
-#
 0.0.0.0 100-solarni-lampa-cz.com
 0.0.0.0 123-123.cz
 0.0.0.0 123-barvy.cz
