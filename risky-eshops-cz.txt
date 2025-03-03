@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-02-24 17:22:04 
-# Version: 2025.2.24.17
+# Last modified: 2025-03-03 14:31:49 
+# Version: 25.3.3+14
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -42,6 +42,7 @@
 0.0.0.0 abyte.online
 0.0.0.0 achaet.com
 0.0.0.0 adapterynotebooku.cz
+0.0.0.0 adelakoukalova.store
 0.0.0.0 adelapraha.store
 0.0.0.0 adhesionplum.com
 0.0.0.0 adidasunderwear.com
@@ -49,6 +50,7 @@
 0.0.0.0 adurtho.com
 0.0.0.0 aenact.lol
 0.0.0.0 aercruft.com
+0.0.0.0 afinhoew.shop
 0.0.0.0 ahojahoj.com
 0.0.0.0 aiglevyprodej.cz
 0.0.0.0 airlevne.cz
@@ -289,6 +291,7 @@
 0.0.0.0 cz4.predstavitltd.com
 0.0.0.0 cz6.immunity.canabis-oil.com
 0.0.0.0 cz6.parazr.com
+0.0.0.0 czalpinepro.shop
 0.0.0.0 czat.shop
 0.0.0.0 czdialine.phytosbest.com
 0.0.0.0 cze.dwczd.top
@@ -702,6 +705,7 @@
 0.0.0.0 nikecz.com
 0.0.0.0 nikecz.cz
 0.0.0.0 nirt.co.uk
+0.0.0.0 niubianran.shop
 0.0.0.0 nobulleshop.cz
 0.0.0.0 nobulleshops.cz
 0.0.0.0 nobullobuv.cz
@@ -843,6 +847,7 @@
 0.0.0.0 resellempire.store
 0.0.0.0 retro-saty.cz
 0.0.0.0 retrohernikonzole.cz
+0.0.0.0 rfesj.ltd
 0.0.0.0 rickerfriends.org
 0.0.0.0 riekercz.com
 0.0.0.0 riekerobuveshop.sk
@@ -1125,6 +1130,7 @@
 0.0.0.0 www.abyte.online
 0.0.0.0 www.achaet.com
 0.0.0.0 www.adapterynotebooku.cz
+0.0.0.0 www.adelakoukalova.store
 0.0.0.0 www.adelapraha.store
 0.0.0.0 www.adhesionplum.com
 0.0.0.0 www.adidasunderwear.com
@@ -1132,6 +1138,7 @@
 0.0.0.0 www.adurtho.com
 0.0.0.0 www.aenact.lol
 0.0.0.0 www.aercruft.com
+0.0.0.0 www.afinhoew.shop
 0.0.0.0 www.ahojahoj.com
 0.0.0.0 www.aiglevyprodej.cz
 0.0.0.0 www.airlevne.cz
@@ -1302,6 +1309,7 @@
 0.0.0.0 www.cz-baterie.cz
 0.0.0.0 www.cz-novinky.website
 0.0.0.0 www.cz-prihlaseni.com
+0.0.0.0 www.czalpinepro.shop
 0.0.0.0 www.czat.shop
 0.0.0.0 www.czech-newyear-offers.shop
 0.0.0.0 www.czech-republic-invest.com
@@ -1685,6 +1693,7 @@
 0.0.0.0 www.nicolettafashion.cz
 0.0.0.0 www.nikecz.com
 0.0.0.0 www.nikecz.cz
+0.0.0.0 www.niubianran.shop
 0.0.0.0 www.nobulleshop.cz
 0.0.0.0 www.nobulleshops.cz
 0.0.0.0 www.nobullobuv.cz
@@ -1823,6 +1832,7 @@
 0.0.0.0 www.resellempire.store
 0.0.0.0 www.retro-saty.cz
 0.0.0.0 www.retrohernikonzole.cz
+0.0.0.0 www.rfesj.ltd
 0.0.0.0 www.rickerfriends.org
 0.0.0.0 www.riekercz.com
 0.0.0.0 www.riekerobuveshop.sk
@@ -2104,6 +2114,7 @@
 0.0.0.0 www.zoufalemaminky.cz
 0.0.0.0 www.zpasbl.com
 0.0.0.0 www.zpravy-24.com
+0.0.0.0 www.ztrackc.lol
 0.0.0.0 www.zubni-kartacek.cz
 0.0.0.0 www.zudanes.com
 0.0.0.0 www.zuzutv.cz
@@ -2138,6 +2149,7 @@
 0.0.0.0 zoufalemaminky.cz
 0.0.0.0 zpasbl.com
 0.0.0.0 zpravy-24.com
+0.0.0.0 ztrackc.lol
 0.0.0.0 zubni-kartacek.cz
 0.0.0.0 zudanes.com
 0.0.0.0 zuzutv.cz
