@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-03-21 14:07:35 
-# Version: 25.3.21+14
+# Last modified: 2025-03-24 14:59:18 
+# Version: 25.3.24
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -110,6 +110,7 @@
 0.0.0.0 bezeckyklubbrno.cz
 0.0.0.0 bezpupku.cz
 0.0.0.0 bgznyxlbkgp.digital
+0.0.0.0 bifcaa.vip
 0.0.0.0 bikeblitz.eu
 0.0.0.0 bio-max.cz
 0.0.0.0 bioveliss-tabs.com
@@ -217,6 +218,7 @@
 0.0.0.0 cz-kneebrace.beauty-goods.biz
 0.0.0.0 cz-novinky.website
 0.0.0.0 cz-prihlaseni.com
+0.0.0.0 cz-thebox.com
 0.0.0.0 cz-tonic.forhealth.me
 0.0.0.0 cz.adamourv.com
 0.0.0.0 cz.bactefortnd.com
@@ -1185,6 +1187,7 @@
 0.0.0.0 www.bezeckyklubbrno.cz
 0.0.0.0 www.bezpupku.cz
 0.0.0.0 www.bgznyxlbkgp.digital
+0.0.0.0 www.bifcaa.vip
 0.0.0.0 www.bikeblitz.eu
 0.0.0.0 www.bio-max.cz
 0.0.0.0 www.bioveliss-tabs.com
@@ -1290,6 +1293,7 @@
 0.0.0.0 www.cz-baterie.cz
 0.0.0.0 www.cz-novinky.website
 0.0.0.0 www.cz-prihlaseni.com
+0.0.0.0 www.cz-thebox.com
 0.0.0.0 www.czalpinepro.shop
 0.0.0.0 www.czat.shop
 0.0.0.0 www.czech-newyear-offers.shop
