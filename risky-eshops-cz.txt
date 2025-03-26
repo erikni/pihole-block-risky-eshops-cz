@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-03-25 16:44:00 
-# Version: 25.3.25
+# Last modified: 2025-03-26 17:11:18 
+# Version: 25.3.26
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -1028,7 +1028,6 @@
 0.0.0.0 univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 unlqlo-cz.cz
 0.0.0.0 urbaner-store.com
-0.0.0.0 urbantrend.cz
 0.0.0.0 urotrin1cz.doctordays.com
 0.0.0.0 utopiadigitalstore.com
 0.0.0.0 uvres.shop
@@ -1994,7 +1993,6 @@
 0.0.0.0 www.univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 www.unlqlo-cz.cz
 0.0.0.0 www.urbaner-store.com
-0.0.0.0 www.urbantrend.cz
 0.0.0.0 www.utopiadigitalstore.com
 0.0.0.0 www.uvres.shop
 0.0.0.0 www.uyjiy.shop
