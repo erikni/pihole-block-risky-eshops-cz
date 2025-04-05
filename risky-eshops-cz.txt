@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-03-26 17:11:18 
-# Version: 25.3.26
+# Last modified: 2025-04-05 19:18:20 
+# Version: 25.4.5
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -296,6 +296,7 @@
 0.0.0.0 czfung.ru
 0.0.0.0 czh.tactical-xdrone.newsalepro.com
 0.0.0.0 czhairperfecta.markmax.site
+0.0.0.0 czjbvers.shop
 0.0.0.0 czsale.2021shoponline.com
 0.0.0.0 czsale.2023discountoutlets.com
 0.0.0.0 damecbd.eu
@@ -366,6 +367,7 @@
 0.0.0.0 evasiveinfo.com
 0.0.0.0 evehaojk.com
 0.0.0.0 eveltas.cz
+0.0.0.0 everlastcz.com
 0.0.0.0 ewoman.cz
 0.0.0.0 excolov.com
 0.0.0.0 eximor.cz
@@ -549,6 +551,7 @@
 0.0.0.0 kodykuponu.com
 0.0.0.0 koifootwear.cz
 0.0.0.0 kolimnc.com
+0.0.0.0 kopakick.com
 0.0.0.0 koronavirus.in
 0.0.0.0 kosile.shop
 0.0.0.0 krajkaasklo.com
@@ -585,6 +588,7 @@
 0.0.0.0 lifebeautyme.com
 0.0.0.0 lifeblg.ru
 0.0.0.0 lifeproducti.com
+0.0.0.0 liformecz.com
 0.0.0.0 limitedtimeforoffer.com
 0.0.0.0 linakocka.com
 0.0.0.0 lingfluent.com
@@ -725,6 +729,7 @@
 0.0.0.0 omegashark.com
 0.0.0.0 ondimarandcon.ga
 0.0.0.0 onesgos.com
+0.0.0.0 onlineoffertstore.com
 0.0.0.0 onlineshop.2024salefactory.com
 0.0.0.0 opbfd.shop
 0.0.0.0 opportunitysense.com
@@ -956,6 +961,7 @@
 0.0.0.0 suukne.shop
 0.0.0.0 svarecky-velkoobchod.cz
 0.0.0.0 svethadu.cz
+0.0.0.0 svoboda-moda.cz
 0.0.0.0 svoboda-praha.cz
 0.0.0.0 sweaty-betty.cz
 0.0.0.0 sweorou.com
@@ -1006,6 +1012,7 @@
 0.0.0.0 tretryshimano.cz
 0.0.0.0 trinlk.com
 0.0.0.0 triumphdiscount.com
+0.0.0.0 trumerse.com
 0.0.0.0 trustableoffering.org
 0.0.0.0 try.articblast.co
 0.0.0.0 tryitnow.space
@@ -1024,11 +1031,13 @@
 0.0.0.0 underarmour-cz.cz
 0.0.0.0 unequalweb.com
 0.0.0.0 uniqlo-cz.cz
+0.0.0.0 uniqo.cz
 0.0.0.0 unique-modules.com
 0.0.0.0 univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 unlqlo-cz.cz
 0.0.0.0 urbaner-store.com
 0.0.0.0 urotrin1cz.doctordays.com
+0.0.0.0 urunbahcesi.com
 0.0.0.0 utopiadigitalstore.com
 0.0.0.0 uvres.shop
 0.0.0.0 uyjiy.shop
@@ -1297,6 +1306,7 @@
 0.0.0.0 www.czech-republic-invest.com
 0.0.0.0 www.czechsiksilk.com
 0.0.0.0 www.czfung.ru
+0.0.0.0 www.czjbvers.shop
 0.0.0.0 www.damecbd.eu
 0.0.0.0 www.danskocz.cz
 0.0.0.0 www.dashingsoul.com
@@ -1358,6 +1368,7 @@
 0.0.0.0 www.evasiveinfo.com
 0.0.0.0 www.evehaojk.com
 0.0.0.0 www.eveltas.cz
+0.0.0.0 www.everlastcz.com
 0.0.0.0 www.ewoman.cz
 0.0.0.0 www.excolov.com
 0.0.0.0 www.eximor.cz
@@ -1540,6 +1551,7 @@
 0.0.0.0 www.kodykuponu.com
 0.0.0.0 www.koifootwear.cz
 0.0.0.0 www.kolimnc.com
+0.0.0.0 www.kopakick.com
 0.0.0.0 www.koronavirus.in
 0.0.0.0 www.kosile.shop
 0.0.0.0 www.krajkaasklo.com
@@ -1574,6 +1586,7 @@
 0.0.0.0 www.lifebeautyme.com
 0.0.0.0 www.lifeblg.ru
 0.0.0.0 www.lifeproducti.com
+0.0.0.0 www.liformecz.com
 0.0.0.0 www.limitedtimeforoffer.com
 0.0.0.0 www.linakocka.com
 0.0.0.0 www.lingfluent.com
@@ -1702,6 +1715,7 @@
 0.0.0.0 www.omegashark.com
 0.0.0.0 www.ondimarandcon.ga
 0.0.0.0 www.onesgos.com
+0.0.0.0 www.onlineoffertstore.com
 0.0.0.0 www.opbfd.shop
 0.0.0.0 www.opportunitysense.com
 0.0.0.0 www.optimal-brikety.cz
@@ -1924,6 +1938,7 @@
 0.0.0.0 www.suukne.shop
 0.0.0.0 www.svarecky-velkoobchod.cz
 0.0.0.0 www.svethadu.cz
+0.0.0.0 www.svoboda-moda.cz
 0.0.0.0 www.svoboda-praha.cz
 0.0.0.0 www.sweaty-betty.cz
 0.0.0.0 www.sweorou.com
@@ -1973,6 +1988,7 @@
 0.0.0.0 www.tretryshimano.cz
 0.0.0.0 www.trinlk.com
 0.0.0.0 www.triumphdiscount.com
+0.0.0.0 www.trumerse.com
 0.0.0.0 www.trustableoffering.org
 0.0.0.0 www.tryitnow.space
 0.0.0.0 www.tsanlo.com
@@ -1989,10 +2005,12 @@
 0.0.0.0 www.underarmour-cz.cz
 0.0.0.0 www.unequalweb.com
 0.0.0.0 www.uniqlo-cz.cz
+0.0.0.0 www.uniqo.cz
 0.0.0.0 www.unique-modules.com
 0.0.0.0 www.univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 www.unlqlo-cz.cz
 0.0.0.0 www.urbaner-store.com
+0.0.0.0 www.urunbahcesi.com
 0.0.0.0 www.utopiadigitalstore.com
 0.0.0.0 www.uvres.shop
 0.0.0.0 www.uyjiy.shop
@@ -2064,7 +2082,9 @@
 0.0.0.0 www.xchncern.monster
 0.0.0.0 www.xsykl.shop
 0.0.0.0 www.xxlobchod.com
+0.0.0.0 www.yiqwniz.com
 0.0.0.0 www.yizhiyu.shop
+0.0.0.0 www.yomerse.com
 0.0.0.0 www.youreduspace.com
 0.0.0.0 www.yourketo.diet
 0.0.0.0 www.yourmarket24.com
@@ -2075,6 +2095,7 @@
 0.0.0.0 www.zapetos.shop
 0.0.0.0 www.zaraczeshop.com
 0.0.0.0 www.zaraeshop.cz
+0.0.0.0 www.zaria-brno.com
 0.0.0.0 www.zasilkonos.cz
 0.0.0.0 www.zavlahy-cz.com
 0.0.0.0 www.zdraveprsty-na-nohou-cz.com
@@ -2101,7 +2122,9 @@
 0.0.0.0 xtacticaldrone.xcartpro.com
 0.0.0.0 xtacticaldrone.xfastcart.com
 0.0.0.0 xxlobchod.com
+0.0.0.0 yiqwniz.com
 0.0.0.0 yizhiyu.shop
+0.0.0.0 yomerse.com
 0.0.0.0 youreduspace.com
 0.0.0.0 yourketo.diet
 0.0.0.0 yourmarket24.com
@@ -2111,6 +2134,7 @@
 0.0.0.0 zapetos.shop
 0.0.0.0 zaraczeshop.com
 0.0.0.0 zaraeshop.cz
+0.0.0.0 zaria-brno.com
 0.0.0.0 zasilkonos.cz
 0.0.0.0 zavlahy-cz.com
 0.0.0.0 zdraveprsty-na-nohou-cz.com
