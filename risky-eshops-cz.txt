@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-04-29 07:34:08 
-# Version: 25.4.29
+# Last modified: 2025-05-07 14:04:44 
+# Version: 25.5.7
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -24,6 +24,7 @@
 0.0.0.0 3.newdigitalgenius.life
 0.0.0.0 34guf.world
 0.0.0.0 3fazova-ostricka-cz.com
+0.0.0.0 3shanyang.shop
 0.0.0.0 4.itdigitalczpulse.life
 0.0.0.0 4blok.cz
 0.0.0.0 6.innov8ionhub.top
@@ -94,6 +95,7 @@
 0.0.0.0 bebince.com
 0.0.0.0 bedernioperkacz.com
 0.0.0.0 beintro.site
+0.0.0.0 beistravel.cz
 0.0.0.0 bellcasual.com
 0.0.0.0 benuker.tech
 0.0.0.0 bereta.shop
@@ -146,6 +148,7 @@
 0.0.0.0 buyonepay.com
 0.0.0.0 caeuollmakerts.store
 0.0.0.0 casioslovensko.sk
+0.0.0.0 caterpillarstore.cz
 0.0.0.0 cbdooil-domm.ru
 0.0.0.0 cblhota.cz
 0.0.0.0 cccmall.top
@@ -338,6 +341,7 @@
 0.0.0.0 elegantni.shop
 0.0.0.0 elfshop.cz
 0.0.0.0 eliskabartova.com
+0.0.0.0 elyviane-praha.cz
 0.0.0.0 emetaphysical.monster
 0.0.0.0 emnot.cz
 0.0.0.0 equiwarmpro.co
@@ -732,6 +736,7 @@
 0.0.0.0 owalacz.cz
 0.0.0.0 pageanket.com
 0.0.0.0 paketstorch.cz
+0.0.0.0 panasonic-eu.shop
 0.0.0.0 pandora-akce.cz
 0.0.0.0 pandoraeshop.cz
 0.0.0.0 pandoraslevy.cz
@@ -853,6 +858,7 @@
 0.0.0.0 servingyourpharmacy.com
 0.0.0.0 severnistyl.com
 0.0.0.0 sexyplastenky.cz
+0.0.0.0 sfgnsv.shop
 0.0.0.0 sharkorder.com
 0.0.0.0 shitforyou.eu
 0.0.0.0 shoesetogs.com
@@ -963,6 +969,7 @@
 0.0.0.0 thiyas.tk
 0.0.0.0 thursdayboots.cz
 0.0.0.0 tibvn.store
+0.0.0.0 ticketsafe.cz
 0.0.0.0 tikkisandale.cz
 0.0.0.0 timberlandpraha.cz
 0.0.0.0 time-for-investment.com
@@ -1014,6 +1021,7 @@
 0.0.0.0 utopiadigitalstore.com
 0.0.0.0 uvres.shop
 0.0.0.0 uyjiy.shop
+0.0.0.0 vacanez.com
 0.0.0.0 vagabondeshop.cz
 0.0.0.0 valeroil.shop
 0.0.0.0 valicellicz.com
@@ -1063,6 +1071,7 @@
 0.0.0.0 warby-parker.cz
 0.0.0.0 wassupsneakers.de
 0.0.0.0 waxx.me
+0.0.0.0 wearbreeze.cz
 0.0.0.0 webshoppingnets.com
 0.0.0.0 wellensteynbundy.cc
 0.0.0.0 wellness-sprchovahlavice-cz.com
@@ -1086,6 +1095,7 @@
 0.0.0.0 www.21sstylees.com
 0.0.0.0 www.34guf.world
 0.0.0.0 www.3fazova-ostricka-cz.com
+0.0.0.0 www.3shanyang.shop
 0.0.0.0 www.4blok.cz
 0.0.0.0 www.7bess.com
 0.0.0.0 www.aanhydrousx.lol
@@ -1150,6 +1160,7 @@
 0.0.0.0 www.bebince.com
 0.0.0.0 www.bedernioperkacz.com
 0.0.0.0 www.beintro.site
+0.0.0.0 www.beistravel.cz
 0.0.0.0 www.bellcasual.com
 0.0.0.0 www.benuker.tech
 0.0.0.0 www.bereta.shop
@@ -1202,6 +1213,7 @@
 0.0.0.0 www.buyonepay.com
 0.0.0.0 www.caeuollmakerts.store
 0.0.0.0 www.casioslovensko.sk
+0.0.0.0 www.caterpillarstore.cz
 0.0.0.0 www.cbdooil-domm.ru
 0.0.0.0 www.cblhota.cz
 0.0.0.0 www.cccmall.top
@@ -1317,6 +1329,7 @@
 0.0.0.0 www.elegantni.shop
 0.0.0.0 www.elfshop.cz
 0.0.0.0 www.eliskabartova.com
+0.0.0.0 www.elyviane-praha.cz
 0.0.0.0 www.emetaphysical.monster
 0.0.0.0 www.emnot.cz
 0.0.0.0 www.equiwarmpro.co
@@ -1692,6 +1705,7 @@
 0.0.0.0 www.owalacz.cz
 0.0.0.0 www.pageanket.com
 0.0.0.0 www.paketstorch.cz
+0.0.0.0 www.panasonic-eu.shop
 0.0.0.0 www.pandora-akce.cz
 0.0.0.0 www.pandoraeshop.cz
 0.0.0.0 www.pandoraslevy.cz
@@ -1812,6 +1826,7 @@
 0.0.0.0 www.servingyourpharmacy.com
 0.0.0.0 www.severnistyl.com
 0.0.0.0 www.sexyplastenky.cz
+0.0.0.0 www.sfgnsv.shop
 0.0.0.0 www.sharkorder.com
 0.0.0.0 www.shitforyou.eu
 0.0.0.0 www.shoesetogs.com
@@ -1915,6 +1930,7 @@
 0.0.0.0 www.thiyas.tk
 0.0.0.0 www.thursdayboots.cz
 0.0.0.0 www.tibvn.store
+0.0.0.0 www.ticketsafe.cz
 0.0.0.0 www.tikkisandale.cz
 0.0.0.0 www.timberlandpraha.cz
 0.0.0.0 www.time-for-investment.com
@@ -1962,6 +1978,7 @@
 0.0.0.0 www.utopiadigitalstore.com
 0.0.0.0 www.uvres.shop
 0.0.0.0 www.uyjiy.shop
+0.0.0.0 www.vacanez.com
 0.0.0.0 www.vagabondeshop.cz
 0.0.0.0 www.valeroil.shop
 0.0.0.0 www.valicellicz.com
@@ -2010,6 +2027,7 @@
 0.0.0.0 www.warby-parker.cz
 0.0.0.0 www.wassupsneakers.de
 0.0.0.0 www.waxx.me
+0.0.0.0 www.wearbreeze.cz
 0.0.0.0 www.webshoppingnets.com
 0.0.0.0 www.wellensteynbundy.cc
 0.0.0.0 www.wellness-sprchovahlavice-cz.com
@@ -2032,6 +2050,8 @@
 0.0.0.0 www.yiqwniz.com
 0.0.0.0 www.yizhiyu.shop
 0.0.0.0 www.yomerse.com
+0.0.0.0 www.youngla.cz
+0.0.0.0 www.younglaczshop.cz
 0.0.0.0 www.youreduspace.com
 0.0.0.0 www.yourketo.diet
 0.0.0.0 www.yourmarket24.com
@@ -2057,6 +2077,7 @@
 0.0.0.0 www.zirovnice.eu
 0.0.0.0 www.zpasbl.com
 0.0.0.0 www.zpravy-24.com
+0.0.0.0 www.zstburc.lol
 0.0.0.0 www.ztrackc.lol
 0.0.0.0 www.zubni-kartacek.cz
 0.0.0.0 www.zudanes.com
@@ -2072,6 +2093,8 @@
 0.0.0.0 yiqwniz.com
 0.0.0.0 yizhiyu.shop
 0.0.0.0 yomerse.com
+0.0.0.0 youngla.cz
+0.0.0.0 younglaczshop.cz
 0.0.0.0 youreduspace.com
 0.0.0.0 yourketo.diet
 0.0.0.0 yourmarket24.com
@@ -2095,6 +2118,7 @@
 0.0.0.0 zirovnice.eu
 0.0.0.0 zpasbl.com
 0.0.0.0 zpravy-24.com
+0.0.0.0 zstburc.lol
 0.0.0.0 ztrackc.lol
 0.0.0.0 zubni-kartacek.cz
 0.0.0.0 zudanes.com
