@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-05-07 14:04:44 
-# Version: 25.5.7
+# Last modified: 2025-05-09 10:54:41 
+# Version: 25.5.9
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -33,13 +33,13 @@
 0.0.0.0 a-cz-bright-skin.natural-sales.com
 0.0.0.0 aanhydrousx.lol
 0.0.0.0 abathingapebape.cz
+0.0.0.0 abcici.shop
 0.0.0.0 abm-clinical.webflow.io
 0.0.0.0 abshuzhi.com
 0.0.0.0 abyte.online
 0.0.0.0 achaet.com
 0.0.0.0 adapterynotebooku.cz
 0.0.0.0 adelakoukalova.store
-0.0.0.0 adelapraha.store
 0.0.0.0 adhesionplum.com
 0.0.0.0 adidasunderwear.com
 0.0.0.0 adnet99.com
@@ -65,7 +65,6 @@
 0.0.0.0 altrarunnerscz.com
 0.0.0.0 altrarunningcz.cz
 0.0.0.0 alzaland.cz
-0.0.0.0 amaliepraha.com
 0.0.0.0 amazingsite24.com
 0.0.0.0 amilara.com
 0.0.0.0 amorise.com
@@ -189,7 +188,6 @@
 0.0.0.0 cornavllc.com
 0.0.0.0 cornermag.cz
 0.0.0.0 cos-czechrepublic.cz
-0.0.0.0 cos-praha.cz
 0.0.0.0 coseshopcz.cz
 0.0.0.0 cpagettipotokk8.com
 0.0.0.0 cpagettistream3.com
@@ -393,7 +391,6 @@
 0.0.0.0 fotbalovemall.com
 0.0.0.0 fotbalshop.com
 0.0.0.0 fotosperky.com
-0.0.0.0 framilpraha.cz
 0.0.0.0 fredie.cz
 0.0.0.0 freelato.shop
 0.0.0.0 freshcantine.cz
@@ -411,7 +408,6 @@
 0.0.0.0 genialstuff.cz
 0.0.0.0 geox-czeshop.cz
 0.0.0.0 geoxczeshop.cz
-0.0.0.0 geoxpraha.cz
 0.0.0.0 getfityourbody.com
 0.0.0.0 getshift.shop
 0.0.0.0 giftday.cz
@@ -496,7 +492,6 @@
 0.0.0.0 ireonce.com
 0.0.0.0 ishop-cz.com
 0.0.0.0 ishoppingworlds.com
-0.0.0.0 jackwolfskinpraha.com
 0.0.0.0 janattwell.com
 0.0.0.0 jareys.com
 0.0.0.0 javeng.shop
@@ -541,7 +536,6 @@
 0.0.0.0 koala-express.eu
 0.0.0.0 kodykuponu.com
 0.0.0.0 koifootwear.cz
-0.0.0.0 kolarpraha.cz
 0.0.0.0 kolimnc.com
 0.0.0.0 kopakick.com
 0.0.0.0 koronavirus.in
@@ -611,6 +605,7 @@
 0.0.0.0 lunzo.sk
 0.0.0.0 lywepwfi.newinfozdrav.com
 0.0.0.0 lzztcbuj.bestremedyforpeople.com
+0.0.0.0 maisonpraha.cz
 0.0.0.0 maldero.com
 0.0.0.0 manleo.cz
 0.0.0.0 margginkcorcite.tk
@@ -688,6 +683,7 @@
 0.0.0.0 nojetlagbook.com
 0.0.0.0 noreo.cz
 0.0.0.0 normoons.com
+0.0.0.0 novak-brno.cz
 0.0.0.0 novak-praha.cz
 0.0.0.0 novakpraha.com
 0.0.0.0 novazakazka.eu
@@ -745,7 +741,6 @@
 0.0.0.0 parksidecz.com
 0.0.0.0 parksidejmstore.com
 0.0.0.0 patagonia-cz.cz
-0.0.0.0 patagoniapraha.cz
 0.0.0.0 penzion-u-petry.cz
 0.0.0.0 pepejeanseshopcz.cz
 0.0.0.0 perfdealpromo.com
@@ -790,7 +785,6 @@
 0.0.0.0 pumaczeshop.cz
 0.0.0.0 pumaslovensko.sk
 0.0.0.0 puradone.com
-0.0.0.0 pure-praha.com
 0.0.0.0 puresuit.shop
 0.0.0.0 pxunhcz.com
 0.0.0.0 pyrozeus.com
@@ -838,12 +832,10 @@
 0.0.0.0 sale.montece.com
 0.0.0.0 saleegoods.com
 0.0.0.0 salewaeshop.cz
-0.0.0.0 salomon-praha.cz
 0.0.0.0 salomoncz.com
 0.0.0.0 sananga.cz
 0.0.0.0 sanke-shen.shop
 0.0.0.0 sanukeshop.cz
-0.0.0.0 sanukpraha.cz
 0.0.0.0 satansdesign.com
 0.0.0.0 saucony-slovensko.sk
 0.0.0.0 schotz.cz
@@ -896,7 +888,6 @@
 0.0.0.0 slevakupon.cz
 0.0.0.0 smartall.cz
 0.0.0.0 smartshopping-24.com
-0.0.0.0 smichovpraha.cz
 0.0.0.0 snaponsmile.com
 0.0.0.0 sneakersonmars.eu
 0.0.0.0 solarenergy-eu.com
@@ -905,7 +896,6 @@
 0.0.0.0 solnadymka-cz.com
 0.0.0.0 soloustores.com
 0.0.0.0 solovaircz.top
-0.0.0.0 sorelpraha.com
 0.0.0.0 sorelpraha.net
 0.0.0.0 south211.shop
 0.0.0.0 spagetlink.com
@@ -954,7 +944,6 @@
 0.0.0.0 teniskyhokaoneone.sk
 0.0.0.0 tereza-palivove.cz
 0.0.0.0 tereza-praha.cz
-0.0.0.0 teva-praha.cz
 0.0.0.0 tevabratislava.com
 0.0.0.0 teveoeshop.cz
 0.0.0.0 teveostore.cz
@@ -971,7 +960,6 @@
 0.0.0.0 tibvn.store
 0.0.0.0 ticketsafe.cz
 0.0.0.0 tikkisandale.cz
-0.0.0.0 timberlandpraha.cz
 0.0.0.0 time-for-investment.com
 0.0.0.0 timeframed.art
 0.0.0.0 timekeepers-big-box.myshopify.com
@@ -1029,7 +1017,6 @@
 0.0.0.0 valueffect.com
 0.0.0.0 vamano.cz
 0.0.0.0 vans-cz.cz
-0.0.0.0 vanspraha.cz
 0.0.0.0 vcmmsai.com
 0.0.0.0 vejaeshop.cz
 0.0.0.0 velomont.com
@@ -1057,7 +1044,6 @@
 0.0.0.0 viviennewestwood.cz
 0.0.0.0 vivobarefootcz.cz
 0.0.0.0 vivobarefootcze-shop.cz
-0.0.0.0 vivobarefootpraha.com
 0.0.0.0 vivobarefootprimus.sk
 0.0.0.0 vjehlici.cz
 0.0.0.0 vocalpast.com
@@ -1100,12 +1086,12 @@
 0.0.0.0 www.7bess.com
 0.0.0.0 www.aanhydrousx.lol
 0.0.0.0 www.abathingapebape.cz
+0.0.0.0 www.abcici.shop
 0.0.0.0 www.abshuzhi.com
 0.0.0.0 www.abyte.online
 0.0.0.0 www.achaet.com
 0.0.0.0 www.adapterynotebooku.cz
 0.0.0.0 www.adelakoukalova.store
-0.0.0.0 www.adelapraha.store
 0.0.0.0 www.adhesionplum.com
 0.0.0.0 www.adidasunderwear.com
 0.0.0.0 www.adnet99.com
@@ -1131,7 +1117,6 @@
 0.0.0.0 www.altrarunnerscz.com
 0.0.0.0 www.altrarunningcz.cz
 0.0.0.0 www.alzaland.cz
-0.0.0.0 www.amaliepraha.com
 0.0.0.0 www.amazingsite24.com
 0.0.0.0 www.amilara.com
 0.0.0.0 www.amorise.com
@@ -1250,7 +1235,6 @@
 0.0.0.0 www.cornavllc.com
 0.0.0.0 www.cornermag.cz
 0.0.0.0 www.cos-czechrepublic.cz
-0.0.0.0 www.cos-praha.cz
 0.0.0.0 www.coseshopcz.cz
 0.0.0.0 www.cpagetti5.com
 0.0.0.0 www.cpagetti6.com
@@ -1379,7 +1363,6 @@
 0.0.0.0 www.fotbalovemall.com
 0.0.0.0 www.fotbalshop.com
 0.0.0.0 www.fotosperky.com
-0.0.0.0 www.framilpraha.cz
 0.0.0.0 www.fredie.cz
 0.0.0.0 www.freelato.shop
 0.0.0.0 www.freshcantine.cz
@@ -1397,7 +1380,6 @@
 0.0.0.0 www.genialstuff.cz
 0.0.0.0 www.geox-czeshop.cz
 0.0.0.0 www.geoxczeshop.cz
-0.0.0.0 www.geoxpraha.cz
 0.0.0.0 www.getfityourbody.com
 0.0.0.0 www.getshift.shop
 0.0.0.0 www.giftday.cz
@@ -1482,7 +1464,6 @@
 0.0.0.0 www.ireonce.com
 0.0.0.0 www.ishop-cz.com
 0.0.0.0 www.ishoppingworlds.com
-0.0.0.0 www.jackwolfskinpraha.com
 0.0.0.0 www.janattwell.com
 0.0.0.0 www.jareys.com
 0.0.0.0 www.javeng.shop
@@ -1525,7 +1506,6 @@
 0.0.0.0 www.koala-express.eu
 0.0.0.0 www.kodykuponu.com
 0.0.0.0 www.koifootwear.cz
-0.0.0.0 www.kolarpraha.cz
 0.0.0.0 www.kolimnc.com
 0.0.0.0 www.kopakick.com
 0.0.0.0 www.koronavirus.in
@@ -1584,6 +1564,7 @@
 0.0.0.0 www.lumeo.cz
 0.0.0.0 www.lunzo.cz
 0.0.0.0 www.lunzo.sk
+0.0.0.0 www.maisonpraha.cz
 0.0.0.0 www.maldero.com
 0.0.0.0 www.manleo.cz
 0.0.0.0 www.margginkcorcite.tk
@@ -1659,6 +1640,7 @@
 0.0.0.0 www.nojetlagbook.com
 0.0.0.0 www.noreo.cz
 0.0.0.0 www.normoons.com
+0.0.0.0 www.novak-brno.cz
 0.0.0.0 www.novak-praha.cz
 0.0.0.0 www.novakpraha.com
 0.0.0.0 www.novazakazka.eu
@@ -1714,7 +1696,6 @@
 0.0.0.0 www.parksidecz.com
 0.0.0.0 www.parksidejmstore.com
 0.0.0.0 www.patagonia-cz.cz
-0.0.0.0 www.patagoniapraha.cz
 0.0.0.0 www.penzion-u-petry.cz
 0.0.0.0 www.pepejeanseshopcz.cz
 0.0.0.0 www.perfdealpromo.com
@@ -1759,7 +1740,6 @@
 0.0.0.0 www.pumaczeshop.cz
 0.0.0.0 www.pumaslovensko.sk
 0.0.0.0 www.puradone.com
-0.0.0.0 www.pure-praha.com
 0.0.0.0 www.puresuit.shop
 0.0.0.0 www.pxunhcz.com
 0.0.0.0 www.pyrozeus.com
@@ -1805,12 +1785,10 @@
 0.0.0.0 www.sale-big.live
 0.0.0.0 www.saleegoods.com
 0.0.0.0 www.salewaeshop.cz
-0.0.0.0 www.salomon-praha.cz
 0.0.0.0 www.salomoncz.com
 0.0.0.0 www.sananga.cz
 0.0.0.0 www.sanke-shen.shop
 0.0.0.0 www.sanukeshop.cz
-0.0.0.0 www.sanukpraha.cz
 0.0.0.0 www.satansdesign.com
 0.0.0.0 www.saucony-slovensko.sk
 0.0.0.0 www.schotz.cz
@@ -1857,7 +1835,6 @@
 0.0.0.0 www.slevakupon.cz
 0.0.0.0 www.smartall.cz
 0.0.0.0 www.smartshopping-24.com
-0.0.0.0 www.smichovpraha.cz
 0.0.0.0 www.snaponsmile.com
 0.0.0.0 www.sneakersonmars.eu
 0.0.0.0 www.solar-group.cz
@@ -1867,7 +1844,6 @@
 0.0.0.0 www.solnadymka-cz.com
 0.0.0.0 www.soloustores.com
 0.0.0.0 www.solovaircz.top
-0.0.0.0 www.sorelpraha.com
 0.0.0.0 www.sorelpraha.net
 0.0.0.0 www.south211.shop
 0.0.0.0 www.spagetlink.com
@@ -1915,7 +1891,6 @@
 0.0.0.0 www.teniskyhokaoneone.sk
 0.0.0.0 www.tereza-palivove.cz
 0.0.0.0 www.tereza-praha.cz
-0.0.0.0 www.teva-praha.cz
 0.0.0.0 www.tevabratislava.com
 0.0.0.0 www.teveoeshop.cz
 0.0.0.0 www.teveostore.cz
@@ -1932,7 +1907,6 @@
 0.0.0.0 www.tibvn.store
 0.0.0.0 www.ticketsafe.cz
 0.0.0.0 www.tikkisandale.cz
-0.0.0.0 www.timberlandpraha.cz
 0.0.0.0 www.time-for-investment.com
 0.0.0.0 www.timeframed.art
 0.0.0.0 www.titaskin.com
@@ -1986,7 +1960,6 @@
 0.0.0.0 www.valueffect.com
 0.0.0.0 www.vamano.cz
 0.0.0.0 www.vans-cz.cz
-0.0.0.0 www.vanspraha.cz
 0.0.0.0 www.vcmmsai.com
 0.0.0.0 www.vejaeshop.cz
 0.0.0.0 www.velomont.com
@@ -2013,7 +1986,6 @@
 0.0.0.0 www.viviennewestwood.cz
 0.0.0.0 www.vivobarefootcz.cz
 0.0.0.0 www.vivobarefootcze-shop.cz
-0.0.0.0 www.vivobarefootpraha.com
 0.0.0.0 www.vivobarefootprimus.sk
 0.0.0.0 www.vjehlici.cz
 0.0.0.0 www.vocalpast.com
