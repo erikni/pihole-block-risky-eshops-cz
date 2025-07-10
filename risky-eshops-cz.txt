@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-07-01 08:48:35 
-# Version: 25.7.1
+# Last modified: 2025-07-10 17:36:01 
+# Version: 25.7.10
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -26,7 +26,6 @@
 0.0.0.0 3fazova-ostricka-cz.com
 0.0.0.0 3shanyang.shop
 0.0.0.0 4.itdigitalczpulse.life
-0.0.0.0 4blok.cz
 0.0.0.0 7bess.com
 0.0.0.0 a-cz-bright-skin.natural-sales.com
 0.0.0.0 aanhydrousx.lol
@@ -50,7 +49,6 @@
 0.0.0.0 airselfiecamera.com
 0.0.0.0 airupczechrepublics.top
 0.0.0.0 airydress.com
-0.0.0.0 aizen.cz
 0.0.0.0 aizhongzhou.com
 0.0.0.0 aldoeshop.cz
 0.0.0.0 alevlioto.com
@@ -62,7 +60,6 @@
 0.0.0.0 altracz.com
 0.0.0.0 altrarunnerscz.com
 0.0.0.0 altrarunningcz.cz
-0.0.0.0 alzaland.cz
 0.0.0.0 amilara.com
 0.0.0.0 andreasmidova.cz
 0.0.0.0 anekkecz.eu
@@ -179,14 +176,13 @@
 0.0.0.0 communityoffersdaily.com
 0.0.0.0 converseczeshop.cz
 0.0.0.0 coolveci.cz
-0.0.0.0 cornavllc.com
 0.0.0.0 cos-czechrepublic.cz
 0.0.0.0 coseshopcz.cz
-0.0.0.0 cpagettipotokk8.com
 0.0.0.0 cpgtpotok5.com
 0.0.0.0 craness.shop
 0.0.0.0 crazesalestore.com
 0.0.0.0 crazyprodnew.com
+0.0.0.0 creaketure.com
 0.0.0.0 creeledcz.com
 0.0.0.0 crypsome.click
 0.0.0.0 cryptoeddu.com
@@ -198,7 +194,6 @@
 0.0.0.0 cz-eretron-aktiv.greatest-shop.com
 0.0.0.0 cz-gadgets.trackey.store
 0.0.0.0 cz-kneebrace.beauty-goods.biz
-0.0.0.0 cz-prihlaseni.com
 0.0.0.0 cz-thebox.com
 0.0.0.0 cz.adamourv.com
 0.0.0.0 cz.bactefortnd.com
@@ -206,7 +201,6 @@
 0.0.0.0 cz.cannaprostnd.com
 0.0.0.0 cz.cannapt.com
 0.0.0.0 cz.cardilinev.com
-0.0.0.0 cz.ceskysystem.zulole25.vip
 0.0.0.0 cz.cleanvisionnd.com
 0.0.0.0 cz.coolbox24.info
 0.0.0.0 cz.coolboxshop.com
@@ -230,7 +224,6 @@
 0.0.0.0 cz.otsnd.com
 0.0.0.0 cz.parazitolnd.com
 0.0.0.0 cz.prostero-official.eu
-0.0.0.0 cz.smart-topstore.com
 0.0.0.0 cz.suganormnd.com
 0.0.0.0 cz.technoweek.net
 0.0.0.0 cz.thetrackkey.com
@@ -252,7 +245,6 @@
 0.0.0.0 cz3.landlrev.com
 0.0.0.0 cz3.landntrv.com
 0.0.0.0 cz4.ketodietnd.com
-0.0.0.0 cz4.predstavitltd.com
 0.0.0.0 cz6.immunity.canabis-oil.com
 0.0.0.0 cz6.parazr.com
 0.0.0.0 czalpinepro.shop
@@ -288,7 +280,6 @@
 0.0.0.0 dickiespraha.cz
 0.0.0.0 didlasower-invest.pro
 0.0.0.0 dis2012.org
-0.0.0.0 discount.shoponline2020.net
 0.0.0.0 discountsales.2023factory.ru
 0.0.0.0 doctorlights.com
 0.0.0.0 doktoratonline.cz
@@ -303,11 +294,7 @@
 0.0.0.0 drschollscz.cz
 0.0.0.0 dukex.live
 0.0.0.0 dvdfunny.top
-0.0.0.0 eccoeshopcz.cz
-0.0.0.0 eccoobchod.cz
-0.0.0.0 ecobydleni.cz
 0.0.0.0 economistguide.com
-0.0.0.0 edensport.cz
 0.0.0.0 edhardy-cz.cz
 0.0.0.0 egyptkosmetika.cz
 0.0.0.0 eheed.monster
@@ -322,6 +309,7 @@
 0.0.0.0 emetaphysical.monster
 0.0.0.0 emnot.cz
 0.0.0.0 equiwarmpro.co
+0.0.0.0 erehearsem.monster
 0.0.0.0 erendezvousm.lol
 0.0.0.0 esprit-cz.cz
 0.0.0.0 estersafranek.cz
@@ -337,7 +325,6 @@
 0.0.0.0 eveltas.cz
 0.0.0.0 everlastcz.com
 0.0.0.0 ewoman.cz
-0.0.0.0 excolov.com
 0.0.0.0 f.education1.top
 0.0.0.0 fableticsvyprodej.cz
 0.0.0.0 fanancod.com
@@ -362,7 +349,6 @@
 0.0.0.0 foggie.nl
 0.0.0.0 followboost.cz
 0.0.0.0 form-ulaheart.com
-0.0.0.0 fortmediatech.com
 0.0.0.0 fotbaldresdarek.com
 0.0.0.0 fotbalovedresycz.com
 0.0.0.0 fotbalovemall.com
@@ -426,7 +412,6 @@
 0.0.0.0 hellyhansencz.cz
 0.0.0.0 hellyhanseneshop.cz
 0.0.0.0 herzgebirge.cz
-0.0.0.0 heygamersnort.at
 0.0.0.0 hgje.store
 0.0.0.0 hitecczeshop.cz
 0.0.0.0 hobby-eshop.cz
@@ -474,6 +459,7 @@
 0.0.0.0 jk.axayy.club
 0.0.0.0 jlgdr.shop
 0.0.0.0 jncojeans.cz
+0.0.0.0 jshfluy.lol
 0.0.0.0 jsjavornik.cz
 0.0.0.0 jt-webcreation.com
 0.0.0.0 jwpei.cz
@@ -489,6 +475,7 @@
 0.0.0.0 kartalin-mast.cz
 0.0.0.0 kazareshop.cz
 0.0.0.0 keen-cz.com
+0.0.0.0 keen001.myshoplaza.com
 0.0.0.0 keenvyprodej.cz
 0.0.0.0 keyine.shop
 0.0.0.0 kfxgw.shop
@@ -499,6 +486,7 @@
 0.0.0.0 killstarcz.cz
 0.0.0.0 kiplingkabelka.cz
 0.0.0.0 kiwjhc.com
+0.0.0.0 kklsmm.com
 0.0.0.0 koala-express.eu
 0.0.0.0 kodykuponu.com
 0.0.0.0 koifootwear.cz
@@ -506,6 +494,7 @@
 0.0.0.0 kopakick.com
 0.0.0.0 koronavirus.in
 0.0.0.0 kosile.shop
+0.0.0.0 kraffler.lol
 0.0.0.0 krajkaasklo.com
 0.0.0.0 kristinn.shop
 0.0.0.0 ksdg.store
@@ -533,7 +522,6 @@
 0.0.0.0 levneairpody.cz
 0.0.0.0 levnydopamin.cz
 0.0.0.0 lidbeat.space
-0.0.0.0 life-changings-facts.com
 0.0.0.0 lifebeautyme.com
 0.0.0.0 lifeproducti.com
 0.0.0.0 liformecz.com
@@ -548,7 +536,6 @@
 0.0.0.0 loftyteam.com
 0.0.0.0 longchampczeshop.cz
 0.0.0.0 longchampkabelka.cz
-0.0.0.0 lookbrew.com
 0.0.0.0 lottovyprodej.cz
 0.0.0.0 louboutinboty.cz
 0.0.0.0 love-puls.shop
@@ -582,13 +569,13 @@
 0.0.0.0 medi-marketz.biz
 0.0.0.0 mediass.shop
 0.0.0.0 meek.cz
-0.0.0.0 megamoravia.cz
 0.0.0.0 meiluea.com
 0.0.0.0 meindlcz.cz
 0.0.0.0 merrellbotycz.cz
 0.0.0.0 merrelleshop.cz
 0.0.0.0 michaelkorscz.cz
 0.0.0.0 microbiologybytes.com
+0.0.0.0 mikrocz.cz
 0.0.0.0 milapraha.cz
 0.0.0.0 milead.click
 0.0.0.0 mingolka-investment.pro
@@ -608,7 +595,6 @@
 0.0.0.0 monsterwine.cz
 0.0.0.0 monttsstore.com
 0.0.0.0 motorwarenhuis.de
-0.0.0.0 moveflexcz.moveflexofficial.com
 0.0.0.0 mraky-kostek.cz
 0.0.0.0 mrdeny.shop
 0.0.0.0 mvqwlk.com
@@ -678,7 +664,6 @@
 0.0.0.0 optimal-brikety.cz
 0.0.0.0 orcela.cz
 0.0.0.0 orchind.com
-0.0.0.0 originalgoodsinternational.com
 0.0.0.0 ormolulondon.com
 0.0.0.0 ororowearcz.com
 0.0.0.0 ortorex.cz
@@ -762,6 +747,7 @@
 0.0.0.0 randecll.com
 0.0.0.0 raphacz.cz
 0.0.0.0 raybanczstore.cz
+0.0.0.0 rcvih8dx.shop
 0.0.0.0 rdbcjf.store
 0.0.0.0 recenzetop.cz
 0.0.0.0 redmi-czk.com
@@ -821,9 +807,7 @@
 0.0.0.0 shop.wwyyggz.shop
 0.0.0.0 shopcvrea.com
 0.0.0.0 shopcz.cc
-0.0.0.0 shopcz.sweetshoppingathome.com
 0.0.0.0 shopfasts.shop
-0.0.0.0 shoppingclub.cz
 0.0.0.0 shoprosea.cz
 0.0.0.0 shopsaea.com
 0.0.0.0 shoptoptovar.com
@@ -862,7 +846,6 @@
 0.0.0.0 spydercz.cz
 0.0.0.0 sqnlin07.shop
 0.0.0.0 stanleycup.cz
-0.0.0.0 starkuvdum.cz
 0.0.0.0 starsneakers.eu
 0.0.0.0 stayingsafe.cz
 0.0.0.0 stellamccartneycz.cz
@@ -885,7 +868,6 @@
 0.0.0.0 superbriket.cz
 0.0.0.0 supremeczshop.com
 0.0.0.0 suukne.shop
-0.0.0.0 svarecky-velkoobchod.cz
 0.0.0.0 svoboda-moda.cz
 0.0.0.0 svoboda-praha.cz
 0.0.0.0 sweaty-betty.cz
@@ -911,7 +893,7 @@
 0.0.0.0 thenorthernfacecz.com
 0.0.0.0 thenorthfacevyprodej.com
 0.0.0.0 theproductcool.com
-0.0.0.0 thiyas.tk
+0.0.0.0 thuoew.shop
 0.0.0.0 tibvn.store
 0.0.0.0 ticketsafe.cz
 0.0.0.0 time-for-investment.com
@@ -930,17 +912,16 @@
 0.0.0.0 tpicashop.com
 0.0.0.0 trapstar.cz
 0.0.0.0 tretryshimano.cz
+0.0.0.0 trhbns.shop
 0.0.0.0 trinlk.com
 0.0.0.0 triumphdiscount.com
 0.0.0.0 trumerse.com
 0.0.0.0 try.articblast.co
-0.0.0.0 tryitnow.space
 0.0.0.0 tsanlo.com
 0.0.0.0 tunican.shop
 0.0.0.0 tuubkupp.newhealthylifes.com
 0.0.0.0 tvarlitomysl.cz
 0.0.0.0 tyflogalerie.cz
-0.0.0.0 tylda.cz
 0.0.0.0 tyr-cz.cz
 0.0.0.0 uaqcx.shop
 0.0.0.0 ubuy.cz
@@ -953,6 +934,7 @@
 0.0.0.0 uniqlo-cz.cz
 0.0.0.0 uniqo.cz
 0.0.0.0 unique-modules.com
+0.0.0.0 unitascontainers.com
 0.0.0.0 univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 unlqlo-cz.cz
 0.0.0.0 urbaner-store.com
@@ -1031,7 +1013,6 @@
 0.0.0.0 www.34guf.world
 0.0.0.0 www.3fazova-ostricka-cz.com
 0.0.0.0 www.3shanyang.shop
-0.0.0.0 www.4blok.cz
 0.0.0.0 www.7bess.com
 0.0.0.0 www.aanhydrousx.lol
 0.0.0.0 www.abathingapebape.cz
@@ -1053,7 +1034,6 @@
 0.0.0.0 www.airselfiecamera.com
 0.0.0.0 www.airupczechrepublics.top
 0.0.0.0 www.airydress.com
-0.0.0.0 www.aizen.cz
 0.0.0.0 www.aizhongzhou.com
 0.0.0.0 www.aldoeshop.cz
 0.0.0.0 www.alevlioto.com
@@ -1065,7 +1045,6 @@
 0.0.0.0 www.altracz.com
 0.0.0.0 www.altrarunnerscz.com
 0.0.0.0 www.altrarunningcz.cz
-0.0.0.0 www.alzaland.cz
 0.0.0.0 www.amilara.com
 0.0.0.0 www.andreasmidova.cz
 0.0.0.0 www.anekkecz.eu
@@ -1178,13 +1157,11 @@
 0.0.0.0 www.communityoffersdaily.com
 0.0.0.0 www.converseczeshop.cz
 0.0.0.0 www.coolveci.cz
-0.0.0.0 www.cornavllc.com
 0.0.0.0 www.cos-czechrepublic.cz
 0.0.0.0 www.coseshopcz.cz
 0.0.0.0 www.cpagetti5.com
 0.0.0.0 www.cpagettigeneral7.com
 0.0.0.0 www.cpagettimain.com
-0.0.0.0 www.cpagettipotokk8.com
 0.0.0.0 www.cpagettistream1.com
 0.0.0.0 www.cpaggette3.com
 0.0.0.0 www.cpgtpotok5.com
@@ -1192,11 +1169,11 @@
 0.0.0.0 www.craness.shop
 0.0.0.0 www.crazesalestore.com
 0.0.0.0 www.crazyprodnew.com
+0.0.0.0 www.creaketure.com
 0.0.0.0 www.creeledcz.com
 0.0.0.0 www.crypsome.click
 0.0.0.0 www.cryptoeddu.com
 0.0.0.0 www.cz-baterie.cz
-0.0.0.0 www.cz-prihlaseni.com
 0.0.0.0 www.cz-thebox.com
 0.0.0.0 www.czalpinepro.shop
 0.0.0.0 www.czech-newyear-offers.shop
@@ -1235,11 +1212,7 @@
 0.0.0.0 www.drschollscz.cz
 0.0.0.0 www.dukex.live
 0.0.0.0 www.dvdfunny.top
-0.0.0.0 www.eccoeshopcz.cz
-0.0.0.0 www.eccoobchod.cz
-0.0.0.0 www.ecobydleni.cz
 0.0.0.0 www.economistguide.com
-0.0.0.0 www.edensport.cz
 0.0.0.0 www.edhardy-cz.cz
 0.0.0.0 www.egyptkosmetika.cz
 0.0.0.0 www.eheed.monster
@@ -1254,6 +1227,7 @@
 0.0.0.0 www.emetaphysical.monster
 0.0.0.0 www.emnot.cz
 0.0.0.0 www.equiwarmpro.co
+0.0.0.0 www.erehearsem.monster
 0.0.0.0 www.erendezvousm.lol
 0.0.0.0 www.esprit-cz.cz
 0.0.0.0 www.estersafranek.cz
@@ -1266,7 +1240,6 @@
 0.0.0.0 www.eveltas.cz
 0.0.0.0 www.everlastcz.com
 0.0.0.0 www.ewoman.cz
-0.0.0.0 www.excolov.com
 0.0.0.0 www.eyewear4you.cz
 0.0.0.0 www.fableticsvyprodej.cz
 0.0.0.0 www.fanancod.com
@@ -1291,7 +1264,6 @@
 0.0.0.0 www.foggie.nl
 0.0.0.0 www.followboost.cz
 0.0.0.0 www.form-ulaheart.com
-0.0.0.0 www.fortmediatech.com
 0.0.0.0 www.fotbaldresdarek.com
 0.0.0.0 www.fotbalovedresycz.com
 0.0.0.0 www.fotbalovemall.com
@@ -1356,7 +1328,6 @@
 0.0.0.0 www.hellyhansencz.cz
 0.0.0.0 www.hellyhanseneshop.cz
 0.0.0.0 www.herzgebirge.cz
-0.0.0.0 www.heygamersnort.at
 0.0.0.0 www.hgje.store
 0.0.0.0 www.hitecczeshop.cz
 0.0.0.0 www.hobby-eshop.cz
@@ -1403,6 +1374,7 @@
 0.0.0.0 www.jiridrevo.cz
 0.0.0.0 www.jlgdr.shop
 0.0.0.0 www.jncojeans.cz
+0.0.0.0 www.jshfluy.lol
 0.0.0.0 www.jsjavornik.cz
 0.0.0.0 www.jt-webcreation.com
 0.0.0.0 www.jwpei.cz
@@ -1428,6 +1400,7 @@
 0.0.0.0 www.killstarcz.cz
 0.0.0.0 www.kiplingkabelka.cz
 0.0.0.0 www.kiwjhc.com
+0.0.0.0 www.kklsmm.com
 0.0.0.0 www.koala-express.eu
 0.0.0.0 www.kodykuponu.com
 0.0.0.0 www.koifootwear.cz
@@ -1435,6 +1408,7 @@
 0.0.0.0 www.kopakick.com
 0.0.0.0 www.koronavirus.in
 0.0.0.0 www.kosile.shop
+0.0.0.0 www.kraffler.lol
 0.0.0.0 www.krajkaasklo.com
 0.0.0.0 www.kristinn.shop
 0.0.0.0 www.ksdg.store
@@ -1460,7 +1434,6 @@
 0.0.0.0 www.levneairpody.cz
 0.0.0.0 www.levnydopamin.cz
 0.0.0.0 www.lidbeat.space
-0.0.0.0 www.life-changings-facts.com
 0.0.0.0 www.lifebeautyme.com
 0.0.0.0 www.lifeproducti.com
 0.0.0.0 www.liformecz.com
@@ -1472,7 +1445,6 @@
 0.0.0.0 www.loftyteam.com
 0.0.0.0 www.longchampczeshop.cz
 0.0.0.0 www.longchampkabelka.cz
-0.0.0.0 www.lookbrew.com
 0.0.0.0 www.lottovyprodej.cz
 0.0.0.0 www.louboutinboty.cz
 0.0.0.0 www.love-puls.shop
@@ -1500,13 +1472,13 @@
 0.0.0.0 www.medi-marketz.biz
 0.0.0.0 www.mediass.shop
 0.0.0.0 www.meek.cz
-0.0.0.0 www.megamoravia.cz
 0.0.0.0 www.meiluea.com
 0.0.0.0 www.meindlcz.cz
 0.0.0.0 www.merrellbotycz.cz
 0.0.0.0 www.merrelleshop.cz
 0.0.0.0 www.michaelkorscz.cz
 0.0.0.0 www.microbiologybytes.com
+0.0.0.0 www.mikrocz.cz
 0.0.0.0 www.milapraha.cz
 0.0.0.0 www.milead.click
 0.0.0.0 www.mingolka-investment.pro
@@ -1590,7 +1562,6 @@
 0.0.0.0 www.optimal-brikety.cz
 0.0.0.0 www.orcela.cz
 0.0.0.0 www.orchind.com
-0.0.0.0 www.originalgoodsinternational.com
 0.0.0.0 www.ormolulondon.com
 0.0.0.0 www.ororowearcz.com
 0.0.0.0 www.ortorex.cz
@@ -1675,6 +1646,7 @@
 0.0.0.0 www.randecll.com
 0.0.0.0 www.raphacz.cz
 0.0.0.0 www.raybanczstore.cz
+0.0.0.0 www.rcvih8dx.shop
 0.0.0.0 www.rdbcjf.store
 0.0.0.0 www.recenzetop.cz
 0.0.0.0 www.redmi-czk.com
@@ -1730,7 +1702,6 @@
 0.0.0.0 www.shopcz.cc
 0.0.0.0 www.shopfasts.shop
 0.0.0.0 www.shopoonline4.com
-0.0.0.0 www.shoppingclub.cz
 0.0.0.0 www.shoprosea.cz
 0.0.0.0 www.shopsaea.com
 0.0.0.0 www.shoptoptovar.com
@@ -1769,7 +1740,6 @@
 0.0.0.0 www.spydercz.cz
 0.0.0.0 www.sqnlin07.shop
 0.0.0.0 www.stanleycup.cz
-0.0.0.0 www.starkuvdum.cz
 0.0.0.0 www.starsneakers.eu
 0.0.0.0 www.stayingsafe.cz
 0.0.0.0 www.stellamccartneycz.cz
@@ -1790,7 +1760,6 @@
 0.0.0.0 www.superbriket.cz
 0.0.0.0 www.supremeczshop.com
 0.0.0.0 www.suukne.shop
-0.0.0.0 www.svarecky-velkoobchod.cz
 0.0.0.0 www.svoboda-moda.cz
 0.0.0.0 www.svoboda-praha.cz
 0.0.0.0 www.sweaty-betty.cz
@@ -1816,7 +1785,7 @@
 0.0.0.0 www.thenorthernfacecz.com
 0.0.0.0 www.thenorthfacevyprodej.com
 0.0.0.0 www.theproductcool.com
-0.0.0.0 www.thiyas.tk
+0.0.0.0 www.thuoew.shop
 0.0.0.0 www.tibvn.store
 0.0.0.0 www.ticketsafe.cz
 0.0.0.0 www.time-for-investment.com
@@ -1835,15 +1804,14 @@
 0.0.0.0 www.tpicashop.com
 0.0.0.0 www.trapstar.cz
 0.0.0.0 www.tretryshimano.cz
+0.0.0.0 www.trhbns.shop
 0.0.0.0 www.trinlk.com
 0.0.0.0 www.triumphdiscount.com
 0.0.0.0 www.trumerse.com
-0.0.0.0 www.tryitnow.space
 0.0.0.0 www.tsanlo.com
 0.0.0.0 www.tunican.shop
 0.0.0.0 www.tvarlitomysl.cz
 0.0.0.0 www.tyflogalerie.cz
-0.0.0.0 www.tylda.cz
 0.0.0.0 www.tyr-cz.cz
 0.0.0.0 www.uaqcx.shop
 0.0.0.0 www.ubuy.cz
@@ -1856,6 +1824,7 @@
 0.0.0.0 www.uniqlo-cz.cz
 0.0.0.0 www.uniqo.cz
 0.0.0.0 www.unique-modules.com
+0.0.0.0 www.unitascontainers.com
 0.0.0.0 www.univerzalni-bryle-na-cteni-cz.com
 0.0.0.0 www.unlqlo-cz.cz
 0.0.0.0 www.urbaner-store.com
@@ -1938,6 +1907,7 @@
 0.0.0.0 www.yummy-yump.com
 0.0.0.0 www.zadaas.cz
 0.0.0.0 www.zahradnikem-nedopatrenim.cz
+0.0.0.0 www.zakozpc.com
 0.0.0.0 www.zaploss.com
 0.0.0.0 www.zaraczeshop.com
 0.0.0.0 www.zaraeshop.cz
@@ -1978,6 +1948,7 @@
 0.0.0.0 yourmarket24.com
 0.0.0.0 yummy-yump.com
 0.0.0.0 zadaas.cz
+0.0.0.0 zakozpc.com
 0.0.0.0 zaploss.com
 0.0.0.0 zaraczeshop.com
 0.0.0.0 zaraeshop.cz
