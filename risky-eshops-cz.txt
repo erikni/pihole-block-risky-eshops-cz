@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-07-10 17:36:01 
-# Version: 25.7.10
+# Last modified: 2025-07-14 10:11:21 
+# Version: 25.7.14
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -632,6 +632,7 @@
 0.0.0.0 nordictrack.site
 0.0.0.0 noreo.cz
 0.0.0.0 normoons.com
+0.0.0.0 novak-brno.cz
 0.0.0.0 novak-praha.cz
 0.0.0.0 novakpraha.com
 0.0.0.0 novazakazka.eu
@@ -875,6 +876,7 @@
 0.0.0.0 swinimi.com
 0.0.0.0 swisspower.cz
 0.0.0.0 systemonl.xyz
+0.0.0.0 tagkot.com
 0.0.0.0 tatonkacz.com
 0.0.0.0 tazwmzvy.newhealthcarenow.com
 0.0.0.0 techdigital.live
@@ -1534,6 +1536,7 @@
 0.0.0.0 www.nordictrack.site
 0.0.0.0 www.noreo.cz
 0.0.0.0 www.normoons.com
+0.0.0.0 www.novak-brno.cz
 0.0.0.0 www.novak-praha.cz
 0.0.0.0 www.novakpraha.com
 0.0.0.0 www.novazakazka.eu
@@ -1767,6 +1770,7 @@
 0.0.0.0 www.swinimi.com
 0.0.0.0 www.swisspower.cz
 0.0.0.0 www.systemonl.xyz
+0.0.0.0 www.tagkot.com
 0.0.0.0 www.tankphone-clearance.com
 0.0.0.0 www.tatonkacz.com
 0.0.0.0 www.techdigital.live
