@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-07-14 10:11:21 
-# Version: 25.7.14
+# Last modified: 2025-07-20 22:48:54 
+# Version: 25.7.20
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -462,6 +462,7 @@
 0.0.0.0 jshfluy.lol
 0.0.0.0 jsjavornik.cz
 0.0.0.0 jt-webcreation.com
+0.0.0.0 julee.store
 0.0.0.0 jwpei.cz
 0.0.0.0 kafar.cz
 0.0.0.0 kalapsonia.cz
@@ -472,6 +473,7 @@
 0.0.0.0 kamagrashop.sk
 0.0.0.0 kantostarter.eu
 0.0.0.0 karllagerfeldcz.com
+0.0.0.0 karoline-praha.com
 0.0.0.0 kartalin-mast.cz
 0.0.0.0 kazareshop.cz
 0.0.0.0 keen-cz.com
@@ -506,6 +508,7 @@
 0.0.0.0 kup.amol.cz
 0.0.0.0 kupi-cz.com
 0.0.0.0 labetcod.com
+0.0.0.0 largemarket.vip
 0.0.0.0 lasportivacz.cz
 0.0.0.0 laureshop.eu
 0.0.0.0 lbres.shop
@@ -623,7 +626,9 @@
 0.0.0.0 nikecz.cz
 0.0.0.0 nirt.co.uk
 0.0.0.0 niubianran.shop
+0.0.0.0 nlyrico.lol
 0.0.0.0 nmartial.monster
+0.0.0.0 nnxxaa.com
 0.0.0.0 nobulleshop.cz
 0.0.0.0 nobulleshops.cz
 0.0.0.0 nobullobuv.cz
@@ -640,6 +645,7 @@
 0.0.0.0 nuio.store
 0.0.0.0 nuubu.com
 0.0.0.0 nvgtn.cz
+0.0.0.0 nvow.shop
 0.0.0.0 obalynatelefon.cz
 0.0.0.0 obchodicek.cz
 0.0.0.0 obchodnicek.cz
@@ -1379,6 +1385,7 @@
 0.0.0.0 www.jshfluy.lol
 0.0.0.0 www.jsjavornik.cz
 0.0.0.0 www.jt-webcreation.com
+0.0.0.0 www.julee.store
 0.0.0.0 www.jwpei.cz
 0.0.0.0 www.kafar.cz
 0.0.0.0 www.kalapsonia.cz
@@ -1389,6 +1396,7 @@
 0.0.0.0 www.kamagrashop.sk
 0.0.0.0 www.kantostarter.eu
 0.0.0.0 www.karllagerfeldcz.com
+0.0.0.0 www.karoline-praha.com
 0.0.0.0 www.kartalin-mast.cz
 0.0.0.0 www.kazareshop.cz
 0.0.0.0 www.keen-cz.com
@@ -1421,6 +1429,7 @@
 0.0.0.0 www.kuorest.com
 0.0.0.0 www.kupi-cz.com
 0.0.0.0 www.labetcod.com
+0.0.0.0 www.largemarket.vip
 0.0.0.0 www.lasportivacz.cz
 0.0.0.0 www.laureshop.eu
 0.0.0.0 www.lbres.shop
@@ -1527,7 +1536,9 @@
 0.0.0.0 www.nikecz.com
 0.0.0.0 www.nikecz.cz
 0.0.0.0 www.niubianran.shop
+0.0.0.0 www.nlyrico.lol
 0.0.0.0 www.nmartial.monster
+0.0.0.0 www.nnxxaa.com
 0.0.0.0 www.nobulleshop.cz
 0.0.0.0 www.nobulleshops.cz
 0.0.0.0 www.nobullobuv.cz
@@ -1543,6 +1554,7 @@
 0.0.0.0 www.nuio.store
 0.0.0.0 www.nuubu.com
 0.0.0.0 www.nvgtn.cz
+0.0.0.0 www.nvow.shop
 0.0.0.0 www.obalynatelefon.cz
 0.0.0.0 www.obchodicek.cz
 0.0.0.0 www.obchodnicek.cz
