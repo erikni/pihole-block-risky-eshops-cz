@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-08-04 16:50:04 
-# Version: 25.8.4
+# Last modified: 2025-08-08 12:24:09 
+# Version: 25.8.8
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -137,6 +137,7 @@
 0.0.0.0 casioslovensko.sk
 0.0.0.0 caterpillarboty.cz
 0.0.0.0 caterpillarstore.cz
+0.0.0.0 cateshopcz.com
 0.0.0.0 cbdooil-domm.ru
 0.0.0.0 cbhsax.shop
 0.0.0.0 cblhota.cz
@@ -568,6 +569,7 @@
 0.0.0.0 meek.cz
 0.0.0.0 meiluea.com
 0.0.0.0 meindlcz.cz
+0.0.0.0 mercatoincasa.com
 0.0.0.0 merrelleshop.cz
 0.0.0.0 michaelkorscz.cz
 0.0.0.0 microbiologybytes.com
@@ -911,6 +913,7 @@
 0.0.0.0 trhbns.shop
 0.0.0.0 trinlk.com
 0.0.0.0 triumphdiscount.com
+0.0.0.0 trivora-praha.cz
 0.0.0.0 trumerse.com
 0.0.0.0 try.articblast.co
 0.0.0.0 tsanlo.com
@@ -1118,6 +1121,7 @@
 0.0.0.0 www.casioslovensko.sk
 0.0.0.0 www.caterpillarboty.cz
 0.0.0.0 www.caterpillarstore.cz
+0.0.0.0 www.cateshopcz.com
 0.0.0.0 www.cbdooil-domm.ru
 0.0.0.0 www.cbhsax.shop
 0.0.0.0 www.cblhota.cz
@@ -1470,6 +1474,7 @@
 0.0.0.0 www.meek.cz
 0.0.0.0 www.meiluea.com
 0.0.0.0 www.meindlcz.cz
+0.0.0.0 www.mercatoincasa.com
 0.0.0.0 www.merrelleshop.cz
 0.0.0.0 www.michaelkorscz.cz
 0.0.0.0 www.microbiologybytes.com
@@ -1803,6 +1808,7 @@
 0.0.0.0 www.trhbns.shop
 0.0.0.0 www.trinlk.com
 0.0.0.0 www.triumphdiscount.com
+0.0.0.0 www.trivora-praha.cz
 0.0.0.0 www.trumerse.com
 0.0.0.0 www.tsanlo.com
 0.0.0.0 www.tunican.shop
