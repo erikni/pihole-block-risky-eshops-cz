@@ -1,7 +1,7 @@
 # Title: Risky e-shops / Rizokové e-shopy (*.cz)
 # Description: The Czech Trade Inspection provides information on websites that it considers to be risky mainly due to non-compliance with certain legal obligations and the difficult enforcement of consumer rights.
-# Last modified: 2025-09-10 08:06:18 
-# Version: 25.9.10
+# Last modified: 2025-09-17 13:28:12 
+# Version: 25.9.17
 # Website: https://github.com/erikni/pihole-block-risky-eshops-cz
 # Based on: https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -290,6 +290,7 @@
 0.0.0.0 doctorlights.com
 0.0.0.0 doktoratonline.cz
 0.0.0.0 doktrin.cz
+0.0.0.0 domintex.sk
 0.0.0.0 dope-snow-cz.cz
 0.0.0.0 dopesnow.cz
 0.0.0.0 dotcurlyis.com
@@ -346,6 +347,7 @@
 0.0.0.0 fixwalks.com
 0.0.0.0 flaro.cz
 0.0.0.0 flexaplus-24.com
+0.0.0.0 flintpraha.cz
 0.0.0.0 flioer.com
 0.0.0.0 flipitreality.cz
 0.0.0.0 floridic.com
@@ -478,6 +480,7 @@
 0.0.0.0 karllagerfeldcz.com
 0.0.0.0 karoline-praha.com
 0.0.0.0 kartalin-mast.cz
+0.0.0.0 katerinapraha.cz
 0.0.0.0 kazareshop.cz
 0.0.0.0 kdcorr.monster
 0.0.0.0 keen-cz.com
@@ -526,6 +529,7 @@
 0.0.0.0 lemsczech.com
 0.0.0.0 lenkajuricova.cz
 0.0.0.0 lenkapraha.com
+0.0.0.0 leskauto.cz
 0.0.0.0 lesni-valecek.myshopify.com
 0.0.0.0 levasan-maxx2.com
 0.0.0.0 levneairpody.cz
@@ -536,6 +540,7 @@
 0.0.0.0 liformecz.com
 0.0.0.0 linakocka.com
 0.0.0.0 lingfluent.com
+0.0.0.0 liorapraha.cz
 0.0.0.0 lipox.cz
 0.0.0.0 littlepioneer.cz
 0.0.0.0 lmbnzwbu.greatsnarods.com
@@ -571,6 +576,7 @@
 0.0.0.0 margginkcorcite.tk
 0.0.0.0 marklv.cz
 0.0.0.0 martenscz.com
+0.0.0.0 martinaveronika.cz
 0.0.0.0 masazekouzlodotekupraha.cz
 0.0.0.0 maxivyprodeje.cz
 0.0.0.0 mc-go.ml
@@ -781,6 +787,7 @@
 0.0.0.0 riekerobuveshop.sk
 0.0.0.0 rivio.cz
 0.0.0.0 robeee.shop
+0.0.0.0 rodinnepoklady.com
 0.0.0.0 rosella-fashion.com
 0.0.0.0 rotovaurvananoha.com
 0.0.0.0 roxy-cz.cz
@@ -930,6 +937,7 @@
 0.0.0.0 tovar-promo.com
 0.0.0.0 tpicashop.com
 0.0.0.0 trapstar.cz
+0.0.0.0 trapstarczeshop.cz
 0.0.0.0 trhbns.shop
 0.0.0.0 trinlk.com
 0.0.0.0 triumphdiscount.com
@@ -977,6 +985,7 @@
 0.0.0.0 vejaeshop.cz
 0.0.0.0 ventisvision.com
 0.0.0.0 venumcz.cz
+0.0.0.0 verapraha.com
 0.0.0.0 veryuseful.ml
 0.0.0.0 vessieshop.cz
 0.0.0.0 veteranspridelandscaping.com
@@ -1007,6 +1016,7 @@
 0.0.0.0 vrchol-zima.cz
 0.0.0.0 vsetop.cz
 0.0.0.0 vsevakci.cz
+0.0.0.0 vxqhb.com
 0.0.0.0 wallvision.cz
 0.0.0.0 wanderheat.com
 0.0.0.0 wassupsneakers.de
@@ -1231,6 +1241,7 @@
 0.0.0.0 www.doctorlights.com
 0.0.0.0 www.doktoratonline.cz
 0.0.0.0 www.doktrin.cz
+0.0.0.0 www.domintex.sk
 0.0.0.0 www.dope-snow-cz.cz
 0.0.0.0 www.dopesnow.cz
 0.0.0.0 www.dotcurlyis.com
@@ -1285,6 +1296,7 @@
 0.0.0.0 www.fixwalks.com
 0.0.0.0 www.flaro.cz
 0.0.0.0 www.flexaplus-24.com
+0.0.0.0 www.flintpraha.cz
 0.0.0.0 www.flioer.com
 0.0.0.0 www.flipitreality.cz
 0.0.0.0 www.floridic.com
@@ -1417,6 +1429,7 @@
 0.0.0.0 www.karllagerfeldcz.com
 0.0.0.0 www.karoline-praha.com
 0.0.0.0 www.kartalin-mast.cz
+0.0.0.0 www.katerinapraha.cz
 0.0.0.0 www.kazareshop.cz
 0.0.0.0 www.kdcorr.monster
 0.0.0.0 www.keen-cz.com
@@ -1463,6 +1476,7 @@
 0.0.0.0 www.lemsczech.com
 0.0.0.0 www.lenkajuricova.cz
 0.0.0.0 www.lenkapraha.com
+0.0.0.0 www.leskauto.cz
 0.0.0.0 www.levasan-maxx2.com
 0.0.0.0 www.levneairpody.cz
 0.0.0.0 www.levnydopamin.cz
@@ -1472,6 +1486,7 @@
 0.0.0.0 www.liformecz.com
 0.0.0.0 www.linakocka.com
 0.0.0.0 www.lingfluent.com
+0.0.0.0 www.liorapraha.cz
 0.0.0.0 www.lipox.cz
 0.0.0.0 www.littlepioneer.cz
 0.0.0.0 www.lmmstore.com
@@ -1498,6 +1513,7 @@
 0.0.0.0 www.margginkcorcite.tk
 0.0.0.0 www.marklv.cz
 0.0.0.0 www.martenscz.com
+0.0.0.0 www.martinaveronika.cz
 0.0.0.0 www.masazekouzlodotekupraha.cz
 0.0.0.0 www.maxivyprodeje.cz
 0.0.0.0 www.mc-go.ml
@@ -1703,6 +1719,7 @@
 0.0.0.0 www.riekerobuveshop.sk
 0.0.0.0 www.rivio.cz
 0.0.0.0 www.robeee.shop
+0.0.0.0 www.rodinnepoklady.com
 0.0.0.0 www.rosella-fashion.com
 0.0.0.0 www.rotovaurvananoha.com
 0.0.0.0 www.roxy-cz.cz
@@ -1846,6 +1863,7 @@
 0.0.0.0 www.tovar-promo.com
 0.0.0.0 www.tpicashop.com
 0.0.0.0 www.trapstar.cz
+0.0.0.0 www.trapstarczeshop.cz
 0.0.0.0 www.trhbns.shop
 0.0.0.0 www.trinlk.com
 0.0.0.0 www.triumphdiscount.com
@@ -1890,6 +1908,7 @@
 0.0.0.0 www.vejaeshop.cz
 0.0.0.0 www.ventisvision.com
 0.0.0.0 www.venumcz.cz
+0.0.0.0 www.verapraha.com
 0.0.0.0 www.veryuseful.ml
 0.0.0.0 www.vessieshop.cz
 0.0.0.0 www.veteranspridelandscaping.com
@@ -1920,6 +1939,7 @@
 0.0.0.0 www.vrchol-zima.cz
 0.0.0.0 www.vsetop.cz
 0.0.0.0 www.vsevakci.cz
+0.0.0.0 www.vxqhb.com
 0.0.0.0 www.wallvision.cz
 0.0.0.0 www.wanderheat.com
 0.0.0.0 www.wassupsneakers.de
